@@ -184,6 +184,7 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
  - Tüm süreç değerlendirilip, beraber öğrenilen kazanımlar ve mobil programlama konusundaki ilerlemeler konuşulmuştur.
  - Gelecekteki takım çalışmalarında zaman yönetimi ve görev dağılımı konusund daha dikkatli olunması konusu vurgulanmıştır.
  
+  # Uygulamamızda kullanmış olduğumuz assetlerin linkleri:
   
 
  
