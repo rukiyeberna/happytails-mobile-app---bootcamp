@@ -21,6 +21,7 @@ import 'package:firebase_core/firebase_core.dart';
 
 import 'onboarding_screen.dart';
 import 'screens/ilan ver_screen.dart';
+import 'screens/login_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -36,7 +37,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.white,
       ),
-      home: Ilan(),
+      home: OnboardingScreen(),
     );
   }
 }
