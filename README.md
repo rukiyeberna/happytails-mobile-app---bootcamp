@@ -184,6 +184,12 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
  - Tüm süreç değerlendirilip, beraber öğrenilen kazanımlar ve mobil programlama konusundaki ilerlemeler konuşulmuştur.
  - Gelecekteki takım çalışmalarında zaman yönetimi ve görev dağılımı konusund daha dikkatli olunması konusu vurgulanmıştır.
  
-  
-
- 
+  # Uygulamamızda kullanmış olduğumuz assetlerin linkleri:
+ - https://www.pexels.com/tr-tr/fotograf/adam-kisi-hayvan-kopek-6234616/
+ - https://www.pexels.com/tr-tr/fotograf/cim-sahada-oturan-yetiskin-chow-chow-sarilma-kiz-573293/
+ - https://www.pexels.com/tr-tr/fotograf/kopek-asistan-check-up-veteriner-6234610/
+ - https://www.pexels.com/tr-tr/
+ - https://www.flaticon.com/free-icon/pet-house_3047928?term=pet&page=1&position=22&origin=search&related_id=3047928 
+ - https://www.flaticon.com/free-icon/messenger_1370958?term=message&page=1&position=4&origin=tag&related_id=1370958 (color edited)
+ - https://www.flaticon.com/free-icon/veterinarian_3680529?term=vet&page=1&position=14&origin=search&related_id=3680529
+ - https://www.flaticon.com/free-icon/veterinary_10638538?term=veterinary&page=1&position=49&origin=search&related_id=10638538
