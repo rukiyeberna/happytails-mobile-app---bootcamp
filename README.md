@@ -185,8 +185,8 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
  - Gelecekteki takım çalışmalarında zaman yönetimi ve görev dağılımı konusund daha dikkatli olunması konusu vurgulanmıştır.
  
   # Uygulamamızda kullanmış olduğumuz assetlerin linkleri:
-  https://www.pexels.com/tr-tr/fotograf/adam-kisi-hayvan-kopek-6234616/
-  https://www.pexels.com/tr-tr/fotograf/cim-sahada-oturan-yetiskin-chow-chow-sarilma-kiz-573293/
-  https://www.pexels.com/tr-tr/fotograf/kopek-asistan-check-up-veteriner-6234610/
-  https://www.pexels.com/tr-tr/
+ - https://www.pexels.com/tr-tr/fotograf/adam-kisi-hayvan-kopek-6234616/
+ - https://www.pexels.com/tr-tr/fotograf/cim-sahada-oturan-yetiskin-chow-chow-sarilma-kiz-573293/
+ - https://www.pexels.com/tr-tr/fotograf/kopek-asistan-check-up-veteriner-6234610/
+ - https://www.pexels.com/tr-tr/
  
