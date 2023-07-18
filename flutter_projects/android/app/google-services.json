@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075603430430",
+    "project_id": "happytails-6e8e8",
+    "storage_bucket": "happytails-6e8e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075603430430:android:6a8a2cefb7d359ae71220f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075603430430-mk97fo8klfffdgd7uobgi4j8mscbi2nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYHfJ6XLCuK-YT_HW763lOwuksmcmF0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075603430430-mk97fo8klfffdgd7uobgi4j8mscbi2nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
