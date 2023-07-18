@@ -185,6 +185,8 @@ Bu sprintte tanıştık, fikirlerimiz hakkında konuştuk ve anafikrimiz konusun
  - Gelecekteki takım çalışmalarında zaman yönetimi ve görev dağılımı konusund daha dikkatli olunması konusu vurgulanmıştır.
  
   # Uygulamamızda kullanmış olduğumuz assetlerin linkleri:
-  
+  ![a1](https://github.com/rukiyeberna/happytails-bootcamp/assets/117301103/9134f6ca-6e0e-4de5-898d-f2c14697cd63)
+![a2](https://github.com/rukiyeberna/happytails-bootcamp/assets/117301103/037cb8ff-877f-4f0b-9031-492deead6469)
+
 
  
