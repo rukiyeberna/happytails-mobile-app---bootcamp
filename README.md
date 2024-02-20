@@ -4,6 +4,16 @@
 Takım Flutter F147
 
 ## Ürün İle İlgili Bilgiler
+## DEMO
+
+
+https://github.com/rukiyeberna/happytails-mobile-app---bootcamp/assets/117301103/8973f018-c5d9-4faa-a722-4e1b1f67810b
+
+
+
+
+
+
 
 ### Takım Elemanları
 
